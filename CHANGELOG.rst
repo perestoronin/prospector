@@ -2,6 +2,13 @@
 Changelog
 #########
 
+Version 1.10.4
+--------------
+
+**Bugfixes**:
+
+* pylint is now limited to version under 3
+
 Version 1.10.3
 --------------
 
